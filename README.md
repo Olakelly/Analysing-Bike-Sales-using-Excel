@@ -10,6 +10,7 @@ This Excel file demonstrates:
 - Filtering by product category, customer demographics, and region
 - Analysis of sales performance, revenue trends, and customer behavior
 - Formatting and styling for improved readability
+## Sales Summary
 ![Screenshot 2025-06-10 153016](https://github.com/user-attachments/assets/335a4011-f65a-4f45-9629-27f06ec361c9)
 
 ---
